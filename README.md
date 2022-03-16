@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindo ao meu GitHub 👋
 
-<!--
-**DeyvisonEstevan/DeyvisonEstevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+______________________________
 
-Here are some ideas to get you started:
+#### Algumas coisas sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### - 🔭 Arquiteto fascinado por tecnologia;
+#### - 🌱 Cursando técnico em informática;
+#### - :school_satchel: Adiquirindo conhecimentos em HTML, C#, JavaScript, CSS, MySQL, Java, React-Native;
+
+______________________________
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
