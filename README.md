@@ -11,3 +11,10 @@ ______________________________
   
 ______________________________
 
+#### Alguns videos mostrando o que estou desenvolvendo:
+
+#### https://www.youtube.com/watch?v=tVa6gCPTPos
+#### https://www.youtube.com/watch?v=maZiQ9vF_2Q
+#### https://www.youtube.com/watch?v=6M1pV7Onku4
+#### https://www.youtube.com/watch?v=jSVDvSqQKSo
+
