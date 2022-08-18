@@ -6,7 +6,7 @@ ______________________________
 
   #### - 🔭 Arquiteto fascinado por tecnologia;
   #### - :briefcase: Buscando colocação como Desenvolvedor;
-  #### - 🌱 Cursando técnico em informática;
+  #### - 🌱 Técnico em informática para Web(Full-Stack);
   #### - :school_satchel: Adiquirindo conhecimentos em HTML, C#, JavaScript, CSS, MySQL, Java, React-Native;
   
 ______________________________
